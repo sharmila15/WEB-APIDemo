@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <script src="Scripts/jquery-1.10.2.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var ulemp = $('#ulEmployee');
+            var t1= $('#tb').val();
+            $('#btn').click(function btc () {
+                $.ajax({
+                    type: 'GET',
+                    url: 'api/Employees/GetByFn' + t1,
+                    dataType: 'json',
+                    success: function (data) {
+
+                        var str = data.FirstName + ' ' + data.LastName;
+                        $('#ulEmployee').text(str);
+                        //alert("Here are the employees");
+                    }
+
+                });
+           
+            });
+        });
+    </script>
+</head>
+<body>
+    <input id="tb" type="text"/>
+<input id="btn" type="submit" value="Employee by FirstName" onclick="btc()" />
+<ul id="ulEmployee"></ul>
+</body>
+</html>

@@ -1,0 +1,10 @@
+c:\users\shammi\documents\visual studio 2015\Projects\WebAPIDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+c:\users\shammi\documents\visual studio 2015\Projects\WebAPIDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+c:\users\shammi\documents\visual studio 2015\Projects\WebAPIDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+c:\users\shammi\documents\visual studio 2015\Projects\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+c:\users\shammi\documents\visual studio 2015\Projects\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\shammi\documents\visual studio 2015\Projects\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+c:\users\shammi\documents\visual studio 2015\Projects\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\shammi\documents\visual studio 2015\Projects\WebAPIDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+c:\users\shammi\documents\visual studio 2015\Projects\WebAPIDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
+c:\users\shammi\documents\visual studio 2015\Projects\WebAPIDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojResolveAssemblyReference.cache
